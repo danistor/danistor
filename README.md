@@ -3,17 +3,10 @@ Building scalable web systems with focus on performance, maintainability, and cl
 
 ### Tech Stack
 
-**Frontend**  
-React • Next.js • TypeScript • React Router • Tailwind CSS • Radix UI
-
-**Backend**  
-Node.js • PHP (Laravel, Magento) • REST APIs • GraphQL
-
-**Infrastructure**  
-Docker • Redis • MySQL • PostgreSQL • CI/CD • Vercel • Cloudflare
-
-**Integrations**  
-Shopify APIs • Payment gateways • ETL pipelines • Third-party APIs
+**Frontend:** React • Next.js • TypeScript • React Router • Tailwind CSS • Radix UI \
+**Backend:** Node.js • PHP (Laravel, Magento) • REST APIs • GraphQL \
+**Infrastructure:** Docker • Redis • MySQL • PostgreSQL • CI/CD • Vercel • Cloudflare • Hetzner \
+**Integrations:**  Shopify APIs • Payment gateways • Stripe • ETL pipelines • Third-party APIs • ERP • CRM
 
 ### Currently working with
 - React.js & Node.js
