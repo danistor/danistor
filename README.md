@@ -1,13 +1,10 @@
-## Dan Nistor
-Senior Full-Stack Engineer • Zurich, Switzerland
+Building scalable web systems with focus on performance, maintainability, and clean architecture.  
 
-I build scalable web systems with focus on performance, maintainability, and clean architecture.  
-Recent projects include AI-powered recommendations, headless e-commerce platforms and complex data pipelines.
 
 ### Tech Stack
 
 **Frontend**  
-React • Next.js • TypeScript • Tailwind CSS
+React • Next.js • TypeScript • React Router • Tailwind CSS • Radix UI
 
 **Backend**  
 Node.js • PHP (Laravel, Magento) • REST APIs • GraphQL
