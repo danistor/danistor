@@ -1,4 +1,4 @@
-Building scalable web systems with focus on performance, maintainability, and clean architecture.  
+Building scalable web systems with focus on performance, maintainability and clean architecture.  
 
 
 ### Tech Stack
